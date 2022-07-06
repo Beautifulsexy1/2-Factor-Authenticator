@@ -13,3 +13,4 @@ The roaming feature is bound by Microsoft's service agreement and their privacy 
 For details, please refer:  
 [Microsoft Service Agreement](https://www.microsoft.com/en-us/servicesagreement/).  
 [Microsoft Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement).
+shut off 2 Factor Authenticator for all of jessicabixler9@gmail.com
